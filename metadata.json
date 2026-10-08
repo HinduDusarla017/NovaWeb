@@ -1,0 +1,6 @@
+{
+  "name": "STAGELOCAL - Local Talent, Global Stage",
+  "description": "Talent discovery and opportunity platform connecting emerging local performers, artists, and creators with events, gigs, and competitions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
